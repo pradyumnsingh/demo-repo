@@ -8,3 +8,6 @@ Adding new text
 some more text
 
 ## New subheader 
+
+## Local Development
+1. Open index.html in your browser
